@@ -15,7 +15,7 @@ How should you use the allotted time?
 
 Scan the whole question paper once. While reading the question paper, you can mark questions as E or M, or D. E for those questions that you think are easy, M for those that you think are moderately difficult, and D for those questions you think are difficult. 
 
-Start solving questions that you have marked E followed by M and D. 
+  Start solving questions that you have marked E followed by M and D. 
 
 Almost always, students think that the question is easy and is done, and they submit the answer sheet. Later they regret that they should have verified their answers once again. Therefore, I recommend you verify and correct the answers instead of submitting the exam early.
 
