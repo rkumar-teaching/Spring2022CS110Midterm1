@@ -10,7 +10,8 @@ April 6th, Noon!
 #### Maximum points: 
 100 (25% of the total grade)
 
-##### Instructions
+##### Two files?
+One (.docx) and the other is .pdf with same content. 
 
 ##### How many questions?
 There are three parts, and the number of questions to be attempted is indicated in each part. 
